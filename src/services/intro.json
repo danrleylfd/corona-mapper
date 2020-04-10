@@ -1,0 +1,44 @@
+[
+  {
+    "key": "1",
+    "title": "Mãos",
+    "text": "Lavar as mãos frequentemente por 20 segundos com água e sabão.",
+    "image": "wash-your-hands.gif",
+    "backgroundColor": "#4CAF50"
+  },
+  {
+    "key": "2",
+    "title": "Mãos",
+    "text": "Higienizar bem as mãos com álcool em gel.",
+    "image": "hand-sanitizer.gif",
+    "backgroundColor": "#FFC107"
+  },
+  {
+    "key": "3",
+    "title": "Espirros e Tosse",
+    "text": "Cobrir o nariz e a boca com um lenço ou o cotovelo ao tossir e espirrar.",
+    "image": "sneezing.gif",
+    "backgroundColor": "#FF5722"
+  },
+  {
+    "key": "4",
+    "title": "Máscara",
+    "text": "Usar uma máscara é importante, estando ou não com a COVID-19.",
+    "image": "wear-mask.gif",
+    "backgroundColor": "#2196F3"
+  },
+  {
+    "key": "5",
+    "title": "Estude em casa",
+    "text": "Ou apenas não saia de casa e fique com seu smartphone conversando online com seus amigos.",
+    "image": "woman-work-from-home.gif",
+    "backgroundColor": "#3F51B5"
+  },
+  {
+    "key": "6",
+    "title": "Trabalhe em casa",
+    "text": "Ou apenas assista seu futebol online com seus amigos.",
+    "image": "man-work-from-home.gif",
+    "backgroundColor": "#F44336"
+  }
+]
