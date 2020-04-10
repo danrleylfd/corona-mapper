@@ -26,7 +26,7 @@
       "package": "com.mobile.coronamapper",
       "versionCode": 1,
       "config": {
-        "googleMaps": { "apiKey": "AIzaSyAOzLTkWQBwa5X_X3VvraLOw4pCzWlsDvg" }   
+        "googleMaps": { "apiKey": "<API KEY>" }   
       },
       "userInterfaceStyle": "dark"
     },
@@ -35,7 +35,7 @@
       "buildNumber": "1.0.0",
       "supportsTablet": true,
       "config": {
-        "googleMapsApiKey": "AIzaSyCPMfrj-bhA77B1z8q4HAsUkEPbpe_9PSg"
+        "googleMapsApiKey": "<API KEY>"
       },
       "userInterfaceStyle": "light"
     }
